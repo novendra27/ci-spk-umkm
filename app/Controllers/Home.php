@@ -6,6 +6,9 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
+        $data = [
+            'title' => 'Home | Penentuan Bantuan UMKM'
+        ];
+        return view('pages/home', $data);
     }
 }
