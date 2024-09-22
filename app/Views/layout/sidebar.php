@@ -14,7 +14,7 @@
                     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                         <!-- Add icons to the links using the .nav-icon class with font-awesome or any other icon font library -->
                         <li class="nav-item">
-                            <a href="home" class="nav-link">
+                            <a href="/home" class="nav-link">
                                 <i class="nav-icon fas fa-th"></i>
                                 <p>
                                     Home
@@ -31,25 +31,25 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="/pages/jenis_usaha" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Jenis Usaha</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="/pages/data_umkm" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Data UMKM</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="/pages/data_kriteria" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Data Kriteria</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="/pages/data_bobot" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Data Bobot</p>
                                     </a>
