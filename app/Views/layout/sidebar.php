@@ -31,25 +31,25 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="/pages/jenis_usaha" class="nav-link">
+                                    <a href="/jenisusaha" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Jenis Usaha</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="/pages/data_umkm" class="nav-link">
+                                    <a href="/dataumkm" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Data UMKM</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="/pages/data_kriteria" class="nav-link">
+                                    <a href="/datakriteria" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Data Kriteria</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="/pages/data_bobot" class="nav-link">
+                                    <a href="/databobot" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Data Bobot</p>
                                     </a>
